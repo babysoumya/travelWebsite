@@ -18,7 +18,6 @@ It provides a consistent look across all pages and enhances user accessibility.
 
 Services, products, signup pages:
 ![image](https://github.com/user-attachments/assets/71a6775f-e314-40bc-8a3f-1e3b6cea6595)
-![image](https://github.com/user-attachments/assets/83e39f47-70d7-4769-bdfc-ce761e1aa482)
-![image](https://github.com/user-attachments/assets/3dec0950-6105-49d2-97b3-3f40f1a1d8bc)
+
 
 
